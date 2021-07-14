@@ -1,0 +1,2 @@
+This project is used to create blogs To post them globally to all users.
+
